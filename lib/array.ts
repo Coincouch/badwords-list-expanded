@@ -450,4 +450,5 @@ export const array: BadWordsList = [
   'willy',
   'xrated',
   'xxx',
+  'Thisisatest',
 ]
